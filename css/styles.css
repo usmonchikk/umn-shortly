@@ -240,12 +240,7 @@ flex-direction: column;
 .index-url-shortener-features-wrapper__url-shortener {
 margin-top: -84px;
 }
-.url-shortener {
-}
-.container {
-}
-.visually-hidden {
-}
+
 .url-shortener__form {
   display: flex;
   padding: 52px 64px;
@@ -253,6 +248,7 @@ border-radius:10px;
 background-color:#4b3f6b;
 background-image:url(../img/Path\ 2.svg);
 background-size: cover;
+margin-bottom: 24px;
 background-repeat:no-repeat;
 }
 .url-shortener__input-wrapper {
@@ -293,14 +289,14 @@ letter-spacing: 0.11px;
 }
 
 .url-shortener__results {
+  font-size: 20px;
+line-height: 36px;
 }
 .url-shortener__result {
   display: flex;
   align-items:center;
 padding: 16px 24px;
 border-radius:5px;
-font-size: 20px;
-line-height: 36px;
 background-color:#fff;
 color:var(--text-color-dark);
 
