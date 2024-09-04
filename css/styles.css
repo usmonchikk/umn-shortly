@@ -424,3 +424,30 @@ color:var(--text-color-dark);
 .index-feature__info {
   margin: 0;
 }
+
+.cta {
+padding-top: 57px;
+padding-bottom: 57px;
+background-image:url(../img/Path\ 2.svg);
+background-repeat:no-repeat;
+background-size:cover;
+background-position:center center;
+
+
+}
+.cta__container {
+display: flex;
+flex-direction: column;
+align-items:center;
+text-align: center;
+color:#fff;
+}
+
+.cta__title {
+margin-top: 0;
+margin-bottom: 32px;
+font-size: 40px;
+line-height: 48px;
+}
+.button {
+}
