@@ -428,7 +428,7 @@ color:var(--text-color-dark);
 .cta {
 padding-top: 57px;
 padding-bottom: 57px;
-background-image:url(../img/Path\ 2.svg);
+background-image:url(../img/001.svg);
 background-repeat:no-repeat;
 background-size:cover;
 background-position:center center;
@@ -456,7 +456,7 @@ line-height: 48px;
   padding-top: 72px;
 padding-bottom: 72px;
 background-color:var(--dark-bg);
-color:#fff;
+color: #fff;
 }
 .site-footer__container {
   display: flex;
